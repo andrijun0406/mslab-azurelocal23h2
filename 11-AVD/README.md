@@ -680,7 +680,13 @@ RDP to each VMs and sign-in as Administrator. Open Edge Browser and paste below 
 Input your registration key:
 ![Install AVD Agent](images/install-avd-agent.png)
 
+Follow the rest of the wizard and complete installation. the AVD bootloader installation also quite simple just follow through the wizard.
 
+After a short time, the virtual machines are listed as session hosts in the host pool. The status of the session hosts might initially appear as Unavailable. If a newer agent version is available, it's upgraded automatically.
+
+After the status of the session hosts is Available, restart the virtual machines.
+
+#### Expected result
 
 
 
