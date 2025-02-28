@@ -1,4 +1,4 @@
-# csc-lab-mslab-azurestackhci23h2
+# mslab-azurelocal23h2
 My hands-on Lab on Deploying Azure Local version 23H2 using MSLab
 > Note: Password and Secrets are removed from scripts
 
