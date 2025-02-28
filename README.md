@@ -1,5 +1,5 @@
 # csc-lab-mslab-azurestackhci23h2
-My hands-on Lab on Deploying Azure Stack HCI version 23H2 using MSLab
+My hands-on Lab on Deploying Azure Local version 23H2 using MSLab
 > Note: Password and Secrets are removed from scripts
 
 This Lab consists of few Lab Scenarios here:
